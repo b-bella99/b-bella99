@@ -1,8 +1,15 @@
-## Hi there 👋
+# <div align = "center">Hi 👋 nice to meet you!! I'm Bella Setyowati</div>
 
-### I'm Bella Setyowati, nice to meet you !!!
+![](https://komarev.com/ghpvc/?username=b-bella99&color=ff69b4)</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-bella99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+🏡  : Wijaya Kusuma Street 9A, Sekarpuro.
+
+🏢  : Study at State Polytechnic of Malang
+
+☕️ 🎮 🎧
+
 <!--
 **b-bella99/b-bella99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
