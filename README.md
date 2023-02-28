@@ -4,7 +4,7 @@
 
 
 
-🏡  : Wijaya Kusuma Street, Sekarpuro.
+🏡  : Malang.
 
 🏢  : Study at State Polytechnic of Malang
 
